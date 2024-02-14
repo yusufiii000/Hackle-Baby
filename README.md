@@ -10,6 +10,8 @@ pkg install python
 
 git clone  https://github.com/yusufiii000/Hackle-Baby
 
+cd Hackle-Baby
+
 chmod +x * 
 
 python3 hackle.py 
